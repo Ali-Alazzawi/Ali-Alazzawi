@@ -1,4 +1,4 @@
-![MasterHead](https://www.uni-potsdam.de/fileadmin/projects/pogs/bilder_nach_einsatzzweck/buehne/DSKI.jpeg)
+![MasterHead] width="400" (https://www.uni-potsdam.de/fileadmin/projects/pogs/bilder_nach_einsatzzweck/buehne/DSKI.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ali Al-azzawi</h1>
 <h3 align="center">A passionate about Data Science and Cyber Security</h3>
