@@ -1,8 +1,8 @@
-[![MasterHead](https://static.wixstatic.com/media/828bb1_516d5b0acf8647d8a53e929b48173768~mv2.webp)
+![MasterHead](https://static.wixstatic.com/media/828bb1_516d5b0acf8647d8a53e929b48173768~mv2.webp)
 
 <h1 align="center">Hi 👋, I'm Ali Al-azzawi</h1>
 <h3 align="center">A passionate about Data Science and Cyber Security</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alazzawi&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alazzawi" /> </p>
 
