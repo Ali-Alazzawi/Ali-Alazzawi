@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Ali Al-azzawi</h1>
 <h3 align="center">A passionate about Data Science and Cyber Security</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-alazzawi&label=Profile%20views&color=0e75b6&style=flat" alt="ali-alazzawi" /> </p>
 
-- 💬 Ask me about **Data Science, Machine Learning, Cyber Security, DevOps,Data Visualization, Data Analytics**
+- 💬 Ask me about **Data Science, Machine Learning, Cyber Security, DevOps, Data Visualization, Data Analytics**
 
 - 📫 How to reach me **aliffwork90@gmail.com**
 
