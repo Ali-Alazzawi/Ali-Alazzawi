@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://static.wixstatic.com/media/828bb1_516d5b0acf8647d8a53e929b48173768~mv2.webp))]
+[![MasterHead][(https://static.wixstatic.com/media/828bb1_516d5b0acf8647d8a53e929b48173768~mv2.webp)]
 
 <h1 align="center">Hi 👋, I'm Ali Al-azzawi</h1>
 <h3 align="center">A passionate about Data Science and Cyber Security</h3>
