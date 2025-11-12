@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Cyber Security, DevOps, Data Visualization, Data Analytics**
 
-- 📫 How to reach me **aliffwork90@gmail.com**
+- 📫 How to reach me ** **
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-al-azzawi-455281237/](https://www.linkedin.com/in/ali-al-azzawi-455281237/)
 
